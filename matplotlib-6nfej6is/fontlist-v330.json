@@ -1,0 +1,12 @@
+{
+  "_version": 330,
+  "_FontManager__default_weight": "normal",
+  "default_size": null,
+  "defaultFamily": {
+    "ttf": "DejaVu Sans",
+    "afm": "Helvetica"
+  },
+  "afmlist": [],
+  "ttflist": [],
+  "__class__": "FontManager"
+}
