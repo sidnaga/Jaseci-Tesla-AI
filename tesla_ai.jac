@@ -234,7 +234,6 @@ walker talk {
             question = std.input("Question (Ctrl-C to exit)> ");
             here::init_wlk_ctx;
         }
-        ...
     }
     dialogue_state {
         if (!question) {
